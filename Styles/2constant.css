@@ -1,0 +1,135 @@
+header{
+    width: 53vw;
+    height: 3vh;
+    margin: 0 auto;
+    background-color: white;
+    border: solid;
+}
+
+.teamlogo{
+    float: left;
+    width: 80px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.home{
+    width: auto;
+    height: 1.15vh;
+    margin-top: 2.1vh;
+    margin-left: 2vw;
+    float: left;
+}
+
+.home a{
+    font-size: 20px;
+    color: black;
+}
+
+.about{
+    width: auto;
+    height: 1.15vh;
+    margin-top: 2.1vh;
+    margin-left: 2vw;
+    float: left;
+}
+
+.about a{
+    font-size: 20px;
+    color: black;
+}
+
+.seasons{
+    width: auto;
+    height: 1.15vh;
+    margin-top: 2.1vh;
+    margin-left: 2vw;
+    float: left;
+}
+
+.seasons a{
+    font-size: 20px;
+    color: black;
+}
+
+.sponsors{
+    width: auto;
+    height: 1.15vh;
+    margin-top: 2.1vh;
+    margin-left: 2vw;
+    position: relative;
+    display: inline-block;
+    float: left;
+}
+
+.sponsors .text{
+    /*line-height: 5.7vw;*/
+    font-size: 20px;
+    color: black;
+}
+
+.sponsors .dropdown{
+    width: 22px;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+
+.sponsors:hover .dropdown{
+    display: block;
+
+}
+
+.sponsors .dropdown a{
+    font-size: 20px;
+    color: black;
+}
+
+.contact{
+    width: auto;
+    height: 1.15vh;
+    margin-top: 2.1vh;
+    margin-left: 2vw;
+    float: left;
+}
+
+.contact a{
+    font-size: 20px;
+    color: black;
+}
+
+.name{
+    width: auto;
+    height: auto;
+    margin-top: 1.5vh;
+    font-size: 34px;
+    float: left;
+    margin-left: 1vw;
+}
+
+.bottom{
+    margin-top: 2vw;
+    width: 100vw;
+    height: 5vw;
+    background-color: black;
+}
+
+.bottom .images{
+    width: 20vw;
+    height: auto;
+    margin: 0vw auto;
+}
+
+.bottom .images img{
+    margin-top: 1vw;
+    margin-left: 2vw;
+    height: 3vw;
+    width: 3vw;
+}
+
+.Twitter{
+    border-radius: 100%;
+}

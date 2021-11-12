@@ -1,0 +1,314 @@
+.all{
+    width: 60vw;
+    height: auto;
+    margin: 6vw auto 4vw auto;
+}
+
+.IRAH{
+    width: 15vw;
+    height: auto;
+}
+
+.IRAHinfo{
+    width: 44vw;
+    height: 13vw;
+    float: right;
+}
+
+.IRAHinfo .info{
+    width: 24.5vw;
+    height: 13vw;
+    float: left;
+}
+
+.IRAHinfo .info .header{
+    width: 24.5vw;
+    text-align: center;
+    padding: .25vw 0vw 0vw .25vw;
+    font-size: 1.15vw;
+    text-decoration: underline;
+    float: left;
+}
+
+.IRAHinfo .info .covid{
+    float: left;
+    margin-top: 1vw;
+    width: 24.5vw;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.IRAHinfo .info .robot{
+    float: left;
+    margin-top: .75vw;
+    width: 24.5vw;
+    text-align: center;
+    font-size: .75vw;
+}
+
+.IRAHinfo .info .comp{
+    float: left;
+    margin-top: 0vw;
+    width: 24.5vw;
+    text-align: center;
+    font-size: .75vw;
+}
+
+.IRAHinfo .info a{
+    float: left;
+    width: 24.5vw;
+    text-align: center;
+    font-size: 1vw;
+    margin-top: .75vw;
+}
+
+.IRAHinfo img{
+    height: 12.9vw;
+    width: auto;
+    float: right;
+}
+
+.IR{
+    width: 15vw;
+    height: auto;
+}
+
+.IRinfo{
+    width: 44vw;
+    height: 11vw;
+    float: right;
+}
+
+.IRinfo .info{
+    width: 25vw;
+    height: 11vw;
+    float: left;
+}
+
+.IRinfo .info .header{
+    width: 25vw;
+    text-align: center;
+    font-size: 1.15vw;
+    float: left;
+    padding: .25vw 0vw 0vw .25vw;
+    text-decoration: underline;
+
+}
+
+.IRinfo .info .dean{
+    float: left;
+    margin-top: 1vw;
+    font-size: 1vw;
+    width: 25vw;
+    text-align: center;
+}
+
+.IRinfo .info .robot{
+    float: left;
+    margin-top: .75vw;
+    font-size: 1vw;
+    width: 25vw;
+    text-align: center;
+}
+
+.IRinfo .info a{
+    float: left;
+    margin-top: .75vw;
+    width: 25vw;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.IRinfo img{
+    height: 11vw;
+    width: auto;
+    float: right;
+}
+
+.DS{
+    width: 15vw;
+    height: auto;
+    margin-bottom: -2.5vw;
+}
+
+.DSinfo{
+    width: 44vw;
+    height: 12vw;
+    float: right;
+    margin-bottom: -2.5vw;
+}
+
+.DSinfo .info{
+    width: 26.5vw;
+    height: 12vw;
+    float: left;
+}
+
+.DSinfo .info .header{
+    width: 26.5vw;
+    text-align: center;
+    font-size: 1.15vw;
+    float: left;
+    padding: .25vw 0vw 0vw .25vw;
+    text-decoration: underline;
+}
+
+.DSinfo .info .com{
+    float: left;
+    margin-top: 1vw;
+    font-size: 1vw;
+    width: 26.5vw;
+    text-align: center;
+}
+
+.DSinfo .info .robot{
+    float: left;
+    margin-top: .75vw;
+    font-size: 1vw;
+    width: 26.5vw;
+    text-align: center;
+}
+
+.DSinfo .info a{
+    float: left;
+    width: 26.5vw;
+    text-align: center;
+    margin-top: .75vw;
+    font-size: 1vw;
+}
+
+.DSinfo img{
+    height: 12vw;
+    width: auto;
+    float: right;
+}
+
+.PU{
+    width: 15vw;
+    height: auto;
+    margin-bottom: 1.5vw;
+}
+
+.PUinfo{
+    width: 44vw;
+    height: 12vw;
+    float: right;
+    margin-bottom: 1.5vw;
+}
+
+.PUinfo .info{
+    width: 28vw;
+    height: 12vw;
+    float: left;
+}
+
+.PUinfo .info .header{
+    width: 28vw;
+    font-size: 1.15vw;
+    float: left;
+    padding: .25vw 0vw 0vw .25vw;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.PUinfo .info .com{
+    float: left;
+    margin-top: 1vw;
+    font-size: 1vw;
+    text-align: center;
+    width: 28vw;
+}
+
+.PUinfo .info .robot{
+    float: left;
+    margin-top: .75vw;
+    font-size: 1vw;
+    text-align: center;
+    width: 28vw;
+}
+
+.PUinfo .info a{
+    float: left;
+    width: 28vw;
+    text-align: center;
+    margin-top: .75vw;
+    font-size: 1vw;
+}
+
+.PUinfo img{
+    height: 12vw;
+    width: auto;
+    float: right;
+}
+
+.SW{
+    width: 15vw;
+    height: auto;
+    margin-top: 1.5vw;
+}
+
+.SWinfo{
+    width: 44vw;
+    height: 11vw;
+    float: right;
+}
+
+.SWinfo .info{
+    width: 28.5vw;
+    height: 11vw;
+    float: left;
+}
+
+.SWinfo .info .header{
+    width: 28.5vw;
+    text-align: center;
+    font-size: 1.15vw;
+    float: left;
+    padding: .25vw 0vw 0vw .25vw;
+    text-decoration: underline;
+}
+
+.SWinfo .info .rook{
+    width: 28.5vw;
+    float: left;
+    margin-top: 1vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.SWinfo .info .robot{
+    width: 28.5vw;
+    float: left;
+    margin-top: .75vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.SWinfo .info .reg{
+    width: auto;
+    float: left;
+    margin-top: .75vw;
+    font-size: 1vw;
+    margin-left: 2vw;
+}
+
+.SWinfo .info .world{
+    width: auto;
+    margin-top: .75vw;
+    font-size: 1vw;
+    margin-right: 2vw;
+    float: right;
+}
+
+.SWinfo img{
+    height: 11vw;
+    width: auto;
+    float: right;
+}
+
+.divider{
+    width: 40vw;
+    height: .1vw;
+    background-color: darkgreen;
+    margin: 3vw auto 3vw auto;
+}
