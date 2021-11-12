@@ -1,8 +1,9 @@
 header{
-    width: 60vw;
+    width: 65vw;
     height: 2vw;
     margin: 0vw auto;
     background-color: white;
+    border: solid;
 }
 
 .home{
