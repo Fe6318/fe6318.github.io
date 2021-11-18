@@ -156,3 +156,7 @@
 @media (max-height: 150px){
     #covertext{top: 100vh}
 }
+
+@media(max-width: 500px){
+    #covertext{top: 8vw}
+}
