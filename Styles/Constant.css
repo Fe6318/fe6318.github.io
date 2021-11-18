@@ -146,3 +146,8 @@ a{
     #menu{display: block;}
     #info{width: 200px; top: 16vh;}
 }
+
+@media(max-width: 300px){
+    #logo{height: 60px; width: auto; margin-right: 12px;}
+    #name{font-size: 10px;}
+}
