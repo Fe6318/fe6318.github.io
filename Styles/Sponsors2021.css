@@ -1,0 +1,98 @@
+#thankyou{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 24px;
+}
+
+#premierlabel{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+#premierlogos{
+    margin-top: 15px;
+}
+
+#fhs{
+    height: 300px;
+    width: auto;
+}
+
+#azco{
+    height: 300px;
+    width: auto;
+}
+
+#platinumlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#platinumlogos{
+    margin-top: 15px;
+}
+
+#sams{
+    height: 200px;
+    width: auto;
+}
+
+#goldlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#goldlogos{
+    margin-top: 15px;
+}
+
+#silverlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#silverlogos{
+    margin-top: 15px;
+}
+
+#tft{
+    height: 100px;
+    width: auto;
+}
+
+#rws{
+    height: 100px;
+    width: auto;
+}
+
+#nasa{
+    height: 100px;
+    width: auto;
+}
+
+#bronzelabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#bronzelogos{
+    margin-top: 15px;
+}
+
+#fleet{
+    height: 50px;
+    width: auto;
+}
+
+#divider{
+    height: 2px;
+    width: 40vw;
+    background-color: darkgreen;
+    margin: 50px auto;
+}

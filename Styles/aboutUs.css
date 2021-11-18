@@ -1,89 +1,126 @@
-.all{
-    width: 65vw;
-    height: 50vw;
-    margin: 4vw auto 0vw auto;
+#team{
+    height: 460px;
+    margin-top: 60px;
 }
 
-.aboutHeader{
+#teaminfo{
+    height: 460px;
+    width: 500px;
+    margin-right: 30px;
+}
+
+#teamheader{
+    margin-top: 15px;
+    width: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+#teamdes{
+    padding-top: 16px;
+    width: auto;
+    text-align: center;
+    font-size: 17px;
+}
+
+#teamimg{
+    height: 460px;
+    width: 600px;
+    margin-left: 30px;
+}
+
+#teampic{
+    margin: 24px auto 0 20px;
+    width: 525px;
+}
+
+#divider{
+    height: 2px;
     width: 30vw;
-    height: 1.4vw;
-    float: left;
-    font-size: 1.4vw;
+    background-color: darkgreen;
+    margin: 40px auto 40px 25vw;
+}
+
+#frc{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    height: 400px;
+}
+
+#frclogo{
+    width: 330px;
+    height: 300px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+#frcpic{
+    margin-top: 40px;
+    width: 300px;
+}
+
+#frcinfo{
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#frcheader{
+    width: auto;
+    margin-top: 20px;
     text-align: center;
-    margin-top: 3vw;
-
+    font-size: 28px;
 }
 
-.aboutInfo{
-    width: 24vw;
-    height: 20vw;
-    margin-top: 4.5vw;
-    font-size: 1.2vw;
+#frcdes{
+    padding-top: 16px;
+    width: auto;
     text-align: center;
-    padding: 1vw 3vw;
+    font-size: 16px;
 }
 
-.aboutInfo a{
-    text-decoration: underline;
-    color: black;
+#compimg{
+    width: 325px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: -120px;
 }
 
-.team{
-    width: 34.5vw;
-    height: 25vw;
-    float: right;
-    margin-top: -20vw;
+#comppic{
+    height: 500px;
 }
 
-.divider{
-    width: 35vw;
-    height: .1vw;
-    background-color: rgb(0, 100, 0);
-    float: left;
-    margin-top: 3.5vw;
-    margin-left: 3vw;
+
+
+
+
+@media(max-width:1200px){
+    #comppic{height: 400px;}
+    #compimg{margin-top: 0;}
 }
 
-.frc{
-    width: 18vw;
-    height: 12vw;
-    margin-top: 12vw;
-    margin-left: -35vw;
+@media(max-width:1205px){
+    #divider{display: none;}
+    #team{height: 920px; margin-top: 0px;}
 }
 
-.frcInfo{
-    width: 20vw;
-    height: 15vw;
-    margin-left: 24vw;
-    margin-top: -13vw;
+@media(max-width:1125px){
+    #teaminfo{margin-right: 0;}
+    #teamimg{margin-left: 0;}
+    #teampic{margin-left: 0;}
 }
 
-.frcInfo .header{
-    width: 19.9vw;
-    height: 1.4vw;
-    margin: 0vw auto;
-    font-size: 1.4vw;
-    text-align: center;
+@media(max-width:1140px){
+    #frc{height: 800px;}
+    #compimg{margin-left: 0;}
 }
 
-.frcInfo .header a{
-    color: black;
-    font-size: 1.4vw;
+@media(max-width:805px){
+    #frc{height: 760px;}
 }
 
-.frcInfo .info{
-    width: 19.9vw;
-    height: 13vw;
-    margin-top: .4vw;
-    text-align: center;
-    font-size: 1vw;
+@media(max-width:790px){
+    #frclogo{margin-top: 0;}
+    #frc{height: 1120px;}
 }
-
-.comp{
-    width: 16vw;
-    height: auto;
-    float: right;
-    margin-right: 1.5vw;
-    margin-top: -20vw;
-}
-
