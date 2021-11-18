@@ -158,14 +158,14 @@
 }
 
 @media(max-width: 500px){
-    #covertext{top: 96px}
-    #teampic{width: 300px; height: auto;}
-    #frc{width: auto; height: auto;}
-    #frctext{width: 180px; height: auto; font-size: 10px;}
+    #covertext{top: 85px}
+    #teampic{width: 300px; height: auto; margin: 0 auto;}
+    #frc{width: auto; height: auto; margin-bottom: 200px;}
+    #frctext{width: 150px; height: auto; font-size: 10px;}
     #frcimg{width: 180px; height: 180px;}
-    #frclogo{width: 180px; height: 180px;}
+    #frclogo{width: 180px; height: auto}
     #fhs{width: auto; height: auto;}
-    #fhstext{width: 180px; height: auto; font-size: 12px;}
+    #fhstext{width: 150px; height: auto; font-size: 12px;}
     #fhsimg{width: 180px; height: 180px;}
     #fhslogo{width: 180px; height: auto;}
 }
