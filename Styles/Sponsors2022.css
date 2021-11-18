@@ -1,0 +1,99 @@
+#thankyou{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 24px;
+}
+
+#premierlabel{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+#premierlogos{
+    margin-top: 15px;
+}
+
+#fhs{
+    height: 300px;
+    width: auto;
+}
+
+#platinumlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#platinumlogos{
+    margin-top: 15px;
+}
+
+#azco{
+    height: 200px;
+    width: auto;
+}
+
+#goldlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#goldlogos{
+    margin-top: 15px;
+}
+
+#mencorp{
+    height: 150px;
+    width: auto;
+}
+
+#valmet{
+    height: 150px;
+    width: auto;
+}
+
+#absel{
+    height: 150px;
+    width: auto;
+}
+
+#silverlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#silverlogos{
+    margin-top: 15px;
+}
+
+#tft{
+    height: 100px;
+    width: auto;
+}
+
+#cmd{
+    height: 100px;
+    width: auto;
+}
+
+#faith{
+    height: 100px;
+    width: auto;
+}
+
+#bronzelabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#divider{
+    height: 2px;
+    width: 40vw;
+    background-color: darkgreen;
+    margin: 50px auto;
+}

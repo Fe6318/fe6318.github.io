@@ -1,0 +1,154 @@
+#cover{
+    width: 100vw;
+    height: auto;
+    position: relative;
+}
+
+#covertext{
+    width: 730px;
+    position: absolute;
+    top: 14vh;
+    left: 23vw;
+    font-size: 3vw;
+    background-color: rgba(255, 255, 255, .4);
+    text-align: center;
+}
+
+#team{
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+#mtext{
+    height: 300px;
+    width: 400px;
+    margin-right: 30px;
+}
+
+#mhead{
+    width: auto;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+#minfo{
+    width: auto;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+#mimg{
+    height: 300px;
+    width: 350px;
+    margin-left: 30px;
+}
+
+#teampic{
+    height: 300px;
+}
+
+#divider{
+    width: 60vw;
+    height: 2px;
+    background-color: darkgreen;
+    margin: -40px auto 80px auto;
+}
+
+#other{
+    height: 250px;
+}
+
+#frc{
+    height: 250px;
+    width: 525px;
+}
+
+#frctext{
+    padding-top: 14px;
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: -12px;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+#frcimg{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-right: -12px;
+}
+
+#frclogo{
+    margin-top: 28px;
+    width: 240px;
+}
+
+#fhs{
+    height: 250px;
+    width: 525px;
+}
+
+#fhstext{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: -12px;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 14px;
+    margin-right: 20px;
+    padding-left: 8px;
+}
+
+#fhsimg{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-right: -12px;
+}
+
+#fhslogo{
+    width: 240px;
+}
+
+@media(max-width: 1100px){
+    #other{height: 525px;}
+    #fhs{margin-top: 25px;}
+}
+
+@media(max-width: 855px){
+    #mtext{margin-right: 0;}
+    #mimg{margin-left: 0; margin-right: 10vw;}
+    #divider{display: none;}
+    #team{height: 600px; margin-top: 20px;}
+}
+
+@media (max-width: 1150px){
+    #covertext{width: 200px; top: 16vh;}
+}
+
+@media (max-height: 700px){
+    #covertext{top:25vh;}
+}
+
+@media (max-height: 500px){
+    #covertext{top: 37vh;}
+}
+
+@media (max-height: 325px){
+    #covertext{top: 50vh;}
+}
+
+@media (max-height: 250px){
+    #covertext{top: 75vh;}
+}
+
+@media (max-height: 150px){
+    #covertext{top: 100vh}
+}
