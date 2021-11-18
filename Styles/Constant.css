@@ -148,7 +148,7 @@ a{
     #info{width: 200px; top: 16vh;}
 }
 
-@media(max-width: 600px){
+@media(max-width: 336px){
     #logo{height: 60px; width: auto; margin-right: 12px;}
     #name{font-size: 10px;}
 }
