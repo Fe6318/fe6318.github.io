@@ -133,6 +133,10 @@
     #covertext{width: 200px; top: 16vh;}
 }
 
+@media(max-height: 850px){
+    #covertext{top: 20vh;}
+}
+
 @media (max-height: 700px){
     #covertext{top:25vh;}
 }
