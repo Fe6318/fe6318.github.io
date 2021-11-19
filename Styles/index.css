@@ -162,8 +162,8 @@
     #teampic{width: 300px; height: auto; float: right;}
     #team{margin-bottom: 0;}
     #other{margin-bottom: 500px;}
-    #frc{height: auto;}
-    #fhs{height: auto;}
+    #frc{height: auto; margin-left: 20vw;}
+    #fhs{height: auto; margin-left: 20vw;}
     /*#frc{width: auto; height: auto; margin-bottom: 200px;}
     #frctext{width: 150px; height: auto; font-size: 10px;}
     #frcimg{width: 180px; height: 180px;}
