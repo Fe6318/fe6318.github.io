@@ -1,5 +1,5 @@
 #cover{
-    width: 98vw;
+    width: 99vw;
     height: auto;
     position: relative;
 }
@@ -10,7 +10,7 @@
     top: 16vh;
     left: 19vw;
     font-size: 3vw;
-    background-color: rgba(255, 255, 255, .4);
+    background-color: rgba(255, 255, 255, .7);
     text-align: center;
 }
 
