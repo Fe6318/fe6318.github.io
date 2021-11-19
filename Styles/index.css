@@ -58,6 +58,7 @@
 }
 
 #other{
+    height: auto;
 }
 
 #frc{
@@ -160,7 +161,7 @@
     #covertext{top: 75px}
     #teampic{width: 300px; height: auto; float: right;}
     #team{margin-bottom: 0;}
-    #other{margin-bottom: 300px;}
+    #other{margin-bottom: 500px;}
     #frc{height: auto;}
     #fhs{height: auto;}
     /*#frc{width: auto; height: auto; margin-bottom: 200px;}
