@@ -1,4 +1,8 @@
-.space{
-    margin-top: 30px;
+#space{
+    margin-top: 20px;
     margin-bottom: 20px;
+}
+
+@media(min-height: 1097px){
+    #space{margin: 12vh auto;}
 }
