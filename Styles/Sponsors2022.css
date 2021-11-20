@@ -97,3 +97,32 @@
     background-color: darkgreen;
     margin: 50px auto;
 }
+
+@media(max-width: 550px){
+    #thankyou{font-size: 18px;}
+    #absel{margin-top: 20px;}
+    #premierlabel{font-size: 16px; margin-top: 20px;}
+    #platinumlabel{font-size: 16px;}
+    #goldlabel{font-size: 16px;}
+    #silverlabel{font-size: 16px;}
+    #bronzelabel{font-size: 16px;}
+    #divider{margin: 30px auto; height: 1px;}
+
+    #fhs{height: 200px;}
+    #azco{height: 150px;}
+    #mencorp{height: 100px;}
+    #valmet{height: 100px;}
+    #absel{height: 25px;}
+    #tft{height: 50px;}
+    #cmd{height: 50px;}
+    #faith{height: 50px; margin-top: 0;}
+}
+
+@media(max-width: 827px){
+    #absel{height: 100px;}
+    #valmet{margin-top: 20px;}
+}
+
+@media(max-width: 1619px){
+    #absel{margin-top: 20px;}
+}

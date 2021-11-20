@@ -264,8 +264,20 @@
     #covertext{top: 20vh;}
 }
 
+@media(max-height: 844px){
+    #covertext{top: 17vh;}
+}
+
 @media (max-height: 700px){
     #covertext{top:25vh;}
+}
+
+@media(max-height: 667px){
+    #covertext{top: 19vh;}
+}
+
+@media(max-height: 568px){
+    #covertext{top: 21vh;}
 }
 
 @media (max-height: 500px){
