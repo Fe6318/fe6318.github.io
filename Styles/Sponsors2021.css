@@ -15,8 +15,18 @@
     margin-top: 15px;
 }
 
+#fhsframe{
+    height: auto;
+    width: auto;
+}
+
 #fhs{
     height: 300px;
+    width: auto;
+}
+
+#azcoframe{
+    height: auto;
     width: auto;
 }
 
@@ -33,6 +43,11 @@
 
 #platinumlogos{
     margin-top: 15px;
+}
+
+#samsframe{
+    height: auto;
+    width: auto;
 }
 
 #sams{
@@ -60,13 +75,28 @@
     margin-top: 15px;
 }
 
+#tftframe{
+    height: auto;
+    width: auto;
+}
+
 #tft{
     height: 100px;
     width: auto;
 }
 
+#rwsframe{
+    height: auto;
+    width: auto;
+}
+
 #rws{
     height: 100px;
+    width: auto;
+}
+
+#nasaframe{
+    height: auto;
     width: auto;
 }
 
@@ -83,6 +113,11 @@
 
 #bronzelogos{
     margin-top: 15px;
+}
+
+#fleetframe{
+    height: auto;
+    width: auto;
 }
 
 #fleet{
@@ -119,5 +154,5 @@
 }
 
 @media(max-width: 850px){
-    #azco{height: auto; width: 60vw;}
+    #azco{height: auto; width: 80vw;}
 }

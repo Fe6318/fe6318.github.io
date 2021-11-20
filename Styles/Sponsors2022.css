@@ -15,6 +15,11 @@
     margin-top: 15px;
 }
 
+#fhsframe{
+    height: auto;
+    width: auto;
+}
+
 #fhs{
     height: 300px;
     width: auto;
@@ -28,6 +33,11 @@
 
 #platinumlogos{
     margin-top: 15px;
+}
+
+#azcoframe{
+    width: auto;
+    height: auto;
 }
 
 #azco{
@@ -45,13 +55,28 @@
     margin-top: 15px;
 }
 
+#mencorpframe{
+    width: auto;
+    height: auto;
+}
+
 #mencorp{
     height: 150px;
     width: auto;
 }
 
+#valmetframe{
+    height: auto;
+    width: auto;
+}
+
 #valmet{
     height: 150px;
+    width: auto;
+}
+
+#abselframe{
+    height: auto;
     width: auto;
 }
 
@@ -70,14 +95,29 @@
     margin-top: 15px;
 }
 
+#tftframe{
+    width: auto;
+    height: auto;
+}
+
 #tft{
     height: 100px;
+    width: auto;
+}
+
+#cmdframe{
+    height: auto;
     width: auto;
 }
 
 #cmd{
     height: 100px;
     width: auto;
+}
+
+#faithframe{
+    width: auto;
+    height: auto;
 }
 
 #faith{
@@ -110,7 +150,7 @@
 
     #fhs{height: 200px;}
     #azco{height: 150px;}
-    #mencorp{height: 100px;}
+    #mencorp{height: auto; width: 50vw;}
     #valmet{height: 100px;}
     #absel{height: 25px;}
     #tft{height: 50px;}
@@ -118,9 +158,12 @@
     #faith{height: 50px; margin-top: 0;}
 }
 
-@media(max-width: 827px){
-    #absel{height: 100px;}
-    #valmet{margin-top: 20px;}
+@media(max-width: 565px){
+    #azco{height: auto; width: 80vw;}
+}
+
+@media(max-width: 836px){
+    #absel{height: auto; width: 70vw;}
 }
 
 @media(max-width: 1619px){
