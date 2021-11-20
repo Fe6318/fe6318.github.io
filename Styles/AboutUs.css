@@ -1,10 +1,11 @@
 #team{
-    height: 460px;
-    margin-top: 60px;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 80px;
 }
 
 #teaminfo{
-    height: 460px;
+    height: auto;
     width: 500px;
     margin-right: 30px;
 }
@@ -24,8 +25,8 @@
 }
 
 #teamimg{
-    height: 460px;
-    width: 600px;
+    height: auto;
+    width: auto;
     margin-left: 30px;
 }
 
@@ -44,12 +45,13 @@
 #frc{
     margin-top: 80px;
     margin-bottom: 40px;
-    height: 400px;
+    /*height: 400px;*/
+    height: auto;
 }
 
 #frclogo{
-    width: 330px;
-    height: 300px;
+    width: auto;
+    height: auto;
     margin-top: 50px;
     margin-right: 10px;
 }
@@ -61,7 +63,7 @@
 
 #frcinfo{
     width: 400px;
-    height: 400px;
+    height: auto;
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -81,8 +83,8 @@
 }
 
 #compimg{
-    width: 325px;
-    height: 400px;
+    width: auto;
+    height: auto;
     margin-left: 10px;
     margin-top: -120px;
 }
@@ -91,36 +93,77 @@
     height: 500px;
 }
 
-
-
-
-
-@media(max-width:1200px){
-    #comppic{height: 400px;}
-    #compimg{margin-top: 0;}
+#teaminfo2{
+    height: auto;
+    width: 500px;
+    display: none;
 }
 
-@media(max-width:1205px){
-    #divider{display: none;}
-    #team{height: 920px; margin-top: 0px;}
+#teamheader2{
+    margin-top: 15px;
+    width: auto;
+    text-align: center;
+    font-size: 30px;
 }
 
-@media(max-width:1125px){
-    #teaminfo{margin-right: 0;}
-    #teamimg{margin-left: 0;}
-    #teampic{margin-left: 0;}
+#teamdes2{
+    padding-top: 16px;
+    width: auto;
+    text-align: center;
+    font-size: 17px;
 }
 
-@media(max-width:1140px){
-    #frc{height: 800px;}
-    #compimg{margin-left: 0;}
+#teamimg2{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    display: none;
 }
 
-@media(max-width:805px){
-    #frc{height: 760px;}
+#teampic2{
+    width: 525px;
 }
 
-@media(max-width:790px){
-    #frclogo{margin-top: 0;}
-    #frc{height: 1120px;}
+
+
+@media(max-width: 350px){
+    #comppic{height: auto; width: 85vw;}
+}
+
+@media(max-width: 550px){
+    #teaminfo2{width: 90vw;}
+    #teamheader2{margin-top: 10px; font-size: 18px;}
+    #teamdes2{padding-top: 10px; font-size: 12px;}
+    #divider{height: 1px;}
+    #frclogo{margin-top: -10px;}
+    #frcpic{width: 200px}
+    #frcheader{font-size: 18px;}
+    #frcdes{font-size: 12px;}
+    #comppic{height: 400px}
+
+}
+
+@media(max-width: 570px){
+    #teampic2{width:85vw}
+}
+
+@media(max-width: 799px){
+    #frclogo{margin-top: 0; margin-bottom: 30px;}
+}
+
+@media(max-width: 1094px){
+    #team{margin-top: 10px;}
+    #teamimg2{margin-top: 20px;}
+}
+
+@media(max-width: 1174px){
+    #teaminfo{display: none;}
+    #teamimg{display: none;}
+    #teaminfo2{display: block;}
+    #teamimg2{display: block;}
+}
+
+@media(max-width: 1216px){
+    #compimg{margin-top: 20px;}
+    #divider{width: 60vw; margin: -40px auto;}
 }
