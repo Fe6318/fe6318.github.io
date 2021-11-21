@@ -1,4 +1,5 @@
 #cover{
+    width: 100%;
     position: relative;
 }
 
@@ -58,6 +59,7 @@
 
 #other{
     height: auto;
+    margin-bottom: 50px;
 }
 
 #frc{
