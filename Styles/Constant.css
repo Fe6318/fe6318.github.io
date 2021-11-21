@@ -133,12 +133,6 @@ a{
     background-color: black;
 }
 
-#logos{
-    width: 150px;
-    height: auto;
-    margin: 0 auto;
-}
-
 #facebook{
     height: 50px;
     width: auto;
@@ -147,7 +141,6 @@ a{
 }
 
 #instagram{
-    margin-left: 20px;
     height: 50px;
     width: auto;
     margin-top: 20px;
