@@ -8,6 +8,7 @@ html, body, div{
 }
 
 #logo{
+    padding-top: 4px;
     width: auto;
     height: 120px;
     margin-right: 24px;
@@ -88,7 +89,7 @@ html, body, div{
     margin-top: 4px;
 }
 
-a{
+#switch{
     margin-top: 38px;
 }
 
@@ -131,6 +132,11 @@ a{
     margin-top: 50px 0 0 0;
     height: 90px;
     background-color: black;
+}
+
+#link{
+    width: auto;
+    height: auto;
 }
 
 #facebook{
