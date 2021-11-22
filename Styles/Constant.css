@@ -63,7 +63,7 @@ html, body, div{
 
 #menulink{
     margin-top: 20px;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 #menuyears{
@@ -74,11 +74,11 @@ html, body, div{
 
 #menuyears a{
     color: black;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
 }
 
-#contactlink{
+.contactlink{
     margin-top: 100px;
 }
 
