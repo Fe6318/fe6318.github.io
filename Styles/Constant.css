@@ -152,6 +152,12 @@ html, body, div{
     margin-top: 20px;
 }
 
+#tiktok{
+    height: 50px;
+    width: auto;
+    margin-top: 20px;
+}
+
 @media (max-width: 1150px){
     #switch{display: none;}
     #Sponsors{display: none;}
