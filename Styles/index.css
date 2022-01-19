@@ -252,6 +252,7 @@ p{
 }
 
 @media(max-width: 864px){
+    #outline{margin-bottom: 0px;}
     #team{margin-top: 0;}
     #mtext2{margin-bottom: 20px;}
 }
