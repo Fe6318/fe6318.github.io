@@ -85,6 +85,50 @@
     width: auto;
 }
 
+#weframe{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+}
+
+#ween{
+    height: 150px;
+    width: auto;
+}
+
+#baldframe{
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+}
+
+#baldwin{
+    height: 150px;
+    width: auto;
+}
+
+#ccuframe{
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+}
+
+#ccu{
+    height: 150px;
+    width: auto;
+}
+
+#baumframe{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+}
+
+#baum{
+    height: 150px;
+    width: auto;
+}
+
 #silverlabel{
     font-size: 18px;
     text-align: center;
@@ -154,6 +198,10 @@
     #mencorp{height: auto; width: 50vw;}
     #valmet{height: 100px;}
     #absel{height: 25px;}
+    #ween{height: 50px;}
+    #baldwin{height: 75px;}
+    #ccu{height: 60px;}
+    #baum{height: 60px;}
     #tft{height: 50px;}
     #cmd{height: 50px;}
     #faith{height: 50px; margin-top: 0;}
