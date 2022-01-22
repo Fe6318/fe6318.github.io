@@ -169,6 +169,16 @@
     width: auto;
 }
 
+#kellerframe{
+    height: auto;
+    width: auto;
+}
+
+#keller{
+    height: 100px;
+    width: auto;
+}
+
 #bronzelabel{
     font-size: 18px;
     text-align: center;
@@ -205,6 +215,7 @@
     #tft{height: 50px;}
     #cmd{height: 50px;}
     #faith{height: 50px; margin-top: 0;}
+    #keller{height: 50px;}
 }
 
 @media(max-width: 565px){
@@ -213,6 +224,10 @@
 
 @media(max-width: 836px){
     #absel{height: auto; width: 70vw;}
+}
+
+@media(max-width: 983px){
+    #kellerframe{margin-top: 10px;}
 }
 
 @media(max-width: 1619px){
