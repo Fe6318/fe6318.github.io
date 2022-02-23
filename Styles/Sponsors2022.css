@@ -45,6 +45,37 @@
     width: auto;
 }
 
+#homeTavernFrame {
+    width: auto;
+    height: auto;
+}
+
+#homeTavern {
+    padding-top: 10px;
+    width: 220px;
+    height: auto;
+}
+
+#salelyticsFrame {
+    width: auto;
+    height: auto;
+}
+
+#salelytics {
+    height: 100px;
+    width: auto;
+}
+
+#hometownInsuranceGroupFrame {
+    width: auto;
+    height: auto;
+}
+
+#hometownInsuranceGroup {
+    height: 100px;
+    width: auto;
+}
+
 #goldlabel{
     font-size: 18px;
     text-align: center;
