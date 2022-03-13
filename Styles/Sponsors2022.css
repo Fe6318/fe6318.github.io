@@ -51,28 +51,29 @@
 }
 
 #homeTavern {
-    padding-top: 10px;
-    width: 220px;
-    height: auto;
+    width: auto;
+    height: 200px;
 }
 
 #salelyticsFrame {
+    margin-top: 10px;
     width: auto;
     height: auto;
 }
 
 #salelytics {
-    height: 100px;
+    height: 75px;
     width: auto;
 }
 
 #hometownInsuranceGroupFrame {
+    margin-top: 10px;
     width: auto;
     height: auto;
 }
 
 #hometownInsuranceGroup {
-    height: 100px;
+    height: 75px;
     width: auto;
 }
 
@@ -245,6 +246,7 @@
     #baum{height: 60px;}
     #tft{height: 50px;}
     #cmd{height: 50px;}
+    #salelytics{height: 40px;}
     #faith{height: 50px; margin-top: 0;}
     #keller{height: 50px;}
 }
