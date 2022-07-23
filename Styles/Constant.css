@@ -78,6 +78,18 @@ html, body, div{
     text-align: center;
 }
 
+#menuyears2{
+    width: 75px;
+    height: 10px;
+    margin-bottom: 12px;
+}
+
+#menuyears2 a{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
 .contactlink{
     margin-top: 100px;
 }
@@ -124,6 +136,30 @@ html, body, div{
 }
 
 #year:hover{
+    color: forestgreen;
+}
+
+.sponsordropdown2{
+    width: 100px;
+    height: 45px;
+    margin-left: 10px;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    background-color: white;
+    display: none;
+}
+
+#Seasons:hover .sponsordropdown2{
+    display: block;
+}
+
+#year2{
+    font-size: 20px;
+    color: black;
+}
+
+#year2:hover{
     color: forestgreen;
 }
 
