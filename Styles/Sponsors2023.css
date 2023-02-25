@@ -1,0 +1,259 @@
+#thankyou{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 24px;
+}
+
+#premierlabel{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+#premierlogos{
+    margin-top: 15px;
+}
+
+#fhsframe{
+    height: auto;
+    width: auto;
+}
+
+#fhs{
+    height: 300px;
+    width: auto;
+}
+
+#platinumlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#platinumlogos{
+    margin-top: 15px;
+}
+
+#wenzelFrame{
+    margin-top: 15px;
+    width: auto;
+    height: auto;
+}
+
+#wenzel{
+    height: 225px;
+    width: auto;
+}
+
+#irishlandFrame{
+    width: auto;
+    height: auto;
+}
+
+#irishland{
+    height: 150px;
+    width: auto;
+}
+
+#kloes{
+    margin-top: -20px;
+    margin-left: 20px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#amcorFrame{
+    width: auto;
+    height: auto;
+}
+
+#amcor{
+    height: 175px;
+    width: auto;
+}
+
+#azcoframe{
+    width: auto;
+    height: auto;
+}
+
+#azco{
+    height: 150px;
+    width: auto;
+}
+
+#homeTavernFrame {
+    width: auto;
+    height: auto;
+}
+
+#homeTavern {
+    width: auto;
+    height: 200px;
+}
+
+#hometownInsuranceGroupFrame {
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+}
+
+#hometownInsuranceGroup {
+    height: 75px;
+    width: auto;
+}
+
+#goldlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#goldlogos{
+    margin-top: 15px;
+}
+
+#abselframe{
+    height: auto;
+    width: auto;
+}
+
+#absel{
+    height: 150px;
+    width: auto;
+}
+
+#baldframe{
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+}
+
+#baumframe{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+}
+
+#baum{
+    height: 200px;
+    width: auto;
+}
+
+#silverlabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#silverlogos{
+    margin-top: 15px;
+}
+
+#eagleFrame{
+    margin-top: 30px;
+    height: auto;
+    width: auto;
+}
+
+#eagle{
+    height: 100px;
+    width: auto;
+}
+
+#tftframe{
+    width: auto;
+    height: auto;
+}
+
+#tft{
+    height: 150px;
+    width: auto;
+}
+
+#kellerFrame{
+    height: auto;
+    width: auto;
+}
+
+#keller{
+    height: 125px;
+    width: auto;
+}
+
+#suburbanFrame{
+    height: auto;
+    width: auto;
+}
+
+#suburban{
+    width: auto;
+    height: 200px;
+}
+
+#milkFrame{
+    width: auto;
+    height: auto;
+}
+
+#milk{
+    height: 100px;
+    width: auto;
+}
+
+#doorFrame{
+    width: auto;
+    height: auto;
+}
+
+#door{
+    height: 50px;
+    width: auto;
+}
+
+#jochmanFrame{
+    width: auto;
+    height: auto;
+}
+
+#jochman{
+    height: 50px;
+    width: auto;
+}
+
+#mamadFrame{
+    width: auto;
+    height: auto;
+}
+
+#mamad{
+    height: 50px;
+    width: auto;
+}
+
+#woodFrame{
+    width: auto;
+    height: auto;
+}
+
+#wood{
+    height: 50px;
+    width: auto;
+}
+
+#bronzelabel{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+
+#divider{
+    height: 2px;
+    width: 40vw;
+    background-color: darkgreen;
+    margin: 50px auto;
+}
