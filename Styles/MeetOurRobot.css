@@ -16,7 +16,9 @@ body{
     height: 90px;
     font-size: 55px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: Arial Narrow, sans-serif;
     /*border: solid thin;*/
 }
 
@@ -28,14 +30,15 @@ body{
 
 #robotimg{
     width: 386px;
-    height: auto;
-    
+    height: auto;  
+    margin-left: 10px;  
 }
 
 #abilities{
     float: right;
     width: 340px;
     height: 515px;
+    margin-top: 14px;
 }
 
 #abilities #top{
@@ -45,6 +48,7 @@ body{
     font-size: 30px;
     text-align: left;
     float: right;
+    font-family: FreeMono, monospace;
 }
 
 #abilities #auto{
@@ -52,8 +56,9 @@ body{
     width: 335px;
     height: 40px;
     font-size: 24px;
-    text-align: center;
+    text-align: left;
     float: right;
+    font-family: DejaVu Sans Mono, monospace;
 }
 
 #abilities #tele{
@@ -61,30 +66,34 @@ body{
     width: 335px;
     height: 40px;
     font-size: 24px;
-    text-align: center;
+    text-align: left;
     float: right;
+    font-family: DejaVu Sans Mono, monospace;
 }
 
 #abilities #auto-functions{
     width: 350px;
-    font-size: 16px;
+    font-size: 18px;
     float: left;
     margin-left: -20px;
+    font-family: Arial, sans-serif;
 }
 
 
 #abilities #tele-functions{
     float: left;
     width: 350px;
-    font-size: 16px;
+    font-size: 18px;
     margin-left: -20px;
+    font-family: Arial, sans-serif;
 }
 
 #tba{
     width: 755px;
     height: 40px;
-    font-size: 30px;
+    font-size: 18px;
     text-align: center;
     margin-top: 40px;
     float: left;
+    color: rgb(2, 122, 201);
 }
