@@ -56,13 +56,15 @@
     width: auto;
 }
 
+#kloesFrame{
+    margin-top: -15px;
+    width: auto;
+    height: auto;
+}
+
 #kloes{
-    margin-top: -20px;
-    margin-left: 20px;
-    text-align: center;
-    width: 100px;
-    height: 40px;
-    font-size: 30px;
+    height: 150px;
+    width: auto;
 }
 
 #amcorFrame{
@@ -256,4 +258,59 @@
     width: 40vw;
     background-color: darkgreen;
     margin: 50px auto;
+}
+
+@media(max-width: 871px){
+    #kloesFrame{margin-top: 25px;}
+}
+
+@media(max-width: 634px){
+    #woodFrame{margin-top: 20px;}
+}
+
+@media(max-width: 570px){
+    #thankyou{font-size: 18px;}
+    #premierlabel{font-size: 16px; margin-top: 20px;}
+    #platinumlabel{font-size: 16px;}
+    #goldlabel{font-size: 16px;}
+    #silverlabel{font-size: 16px;}
+    #bronzelabel{font-size: 16px;}
+    #divider{margin: 30px auto; height: 1px;}
+
+    #fhs{height: 175px;}
+    #amcor{height: 85px;}
+    #baum{height: 100px;}
+    #homeTavern{height: 100px;}
+    #wenzel{height: 112px;}
+    #absel{height: 75px;}
+    #azco{height: 75px;}
+    #eagle{height: 50px;}
+    #irishland{height: 75px;}
+    #keller{height: 62px;}
+    #suburban{height: 100px;}
+    #tft{height: 75px;}
+    #milk{height: 50px;}
+    #hometownInsuranceGroup{height: 37px;}
+    #kloes{height: 75px;}
+    #door{height: 25px;}
+    #jochman{height: 25px;}
+    #mamad{height: 25px;}
+    #wood{height: 25px;}
+
+    #kloesFrame{margin-top: -15px;}
+    #woodFrame{margin-top: 0;}
+}
+
+@media(max-width: 490px){
+    #kloesFrame{margin-top: 20px;}
+}
+
+@media(max-width: 402px){
+    #hometownInsuranceGroupFrame{margin-top: 30px;}
+}
+
+@media(max-width: 384px){
+    #woodFrame{
+        margin-top: 10px;
+    }
 }

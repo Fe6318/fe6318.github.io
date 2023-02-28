@@ -108,9 +108,9 @@ body{
 
 @media(max-width: 450px){
     #main{width: 300px; height: 950px;}
-    #main #header{width: 280px; font-size: 30px; height: 40px;}
+    #main #header{width: 280px; font-size: 28px; height: 40px;}
     #robotimg{width: 280px;}
-    #abilities{width: 280px; margin-top: 0; height: 475px;}
+    #abilities{width: 280px; margin-top: 0; height: 485px;}
     #abilities #top{width: 280px; font-size: 28px;}
     #abilities #auto{width: 280px;}
     #abilities #auto-functions{width: 280px;}
