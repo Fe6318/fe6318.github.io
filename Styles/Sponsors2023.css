@@ -41,7 +41,18 @@
     height: auto;
 }
 
+#iviFrame{
+    margin-top: 15px;
+    width: auto;
+    height: auto;
+}
+
 #wenzel{
+    height: 225px;
+    width: auto;
+}
+
+#ivi{
     height: 225px;
     width: auto;
 }
@@ -138,6 +149,26 @@
     height: auto;
     width: auto;
     margin-top: 10px;
+}
+
+#kolzowFrame{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    font-size: 30px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#beckyFrame{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    font-size: 30px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #baum{
