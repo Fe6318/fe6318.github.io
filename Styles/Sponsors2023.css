@@ -25,6 +25,16 @@
     width: auto;
 }
 
+#firstwiframe{
+    height: auto;
+    width: auto;
+}
+
+#firstwi{
+    height: 200px;
+    width: auto;
+}
+
 #platinumlabel{
     font-size: 18px;
     text-align: center;
@@ -86,6 +96,27 @@
 #amcor{
     height: 175px;
     width: auto;
+}
+
+#geneframe{
+    width: auto;
+    height: auto;
+}
+
+#gene{
+    height: 175px;
+    width: auto;
+}
+
+#argosyframe{
+    width: auto;
+    height: auto;
+}
+
+#argosy{
+    height: 175px;
+    width: auto;
+    background-color: gray;
 }
 
 #azcoframe{
@@ -164,11 +195,11 @@
 #beckyFrame{
     height: auto;
     width: auto;
-    margin-top: 10px;
-    font-size: 30px;
-    display: flex;
-  justify-content: center;
-  align-items: center;
+}
+
+#becky{
+    height: 175px;
+    width: auto;
 }
 
 #baum{
@@ -263,7 +294,7 @@
 }
 
 #mamad{
-    height: 50px;
+    height: 150px;
     width: auto;
 }
 
@@ -309,7 +340,11 @@
     #divider{margin: 30px auto; height: 1px;}
 
     #fhs{height: 175px;}
+    #firstwi{height: 175px;}
     #amcor{height: 85px;}
+    #argosy{height: 85px;}
+    #gene{height: 85px;}
+    #becky{height: 85px;}
     #baum{height: 100px;}
     #homeTavern{height: 100px;}
     #wenzel{height: 112px;}
@@ -328,7 +363,6 @@
     #mamad{height: 25px;}
     #wood{height: 25px;}
 
-    #kloesFrame{margin-top: -15px;}
     #woodFrame{margin-top: 0;}
 }
 
